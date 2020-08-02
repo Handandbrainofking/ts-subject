@@ -1,20 +1,20 @@
 {
-  "name": "ts-subject",
-  "version": "0.1.0",
-  "description": "learn typescript",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Handandbrainofking/ts-subject.git"
-  },
-  "keywords": [],
-  "author": "zoiew <wscats@126.com> (https://github.com/zoiewLeung)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Handandbrainofking/ts-subject/issues"
-  },
-  "homepage": "https://github.com/Handandbrainofking/ts-subject#readme"
+    "name": "ts-subject",
+    "version": "0.1.0",
+    "description": "learn typescripts",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Handandbrainofking/ts-subject.git"
+    },
+    "keywords": [],
+    "author": "zoiew <wscats@126.com> (https://github.com/zoiewLeung)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Handandbrainofking/ts-subject/issues"
+    },
+    "homepage": "https://github.com/Handandbrainofking/ts-subject#readme"
 }
