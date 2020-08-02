@@ -1,4 +1,4 @@
-ou; //函数定义方式
+//函数定义方式
 function hello() {}
 const hello1 = function() {};
 const hello2 = () => {};
@@ -28,8 +28,8 @@ function add2({ first, second }: { first: number; second: number }): number {
 
 const totalCalc2 = add2({ first: 1, second: 2 });
 
-let count: number;
-count = 222;
+let count2: number;
+count2 = 222;
 
 //对象类型，{}, Class, funciton , []
 

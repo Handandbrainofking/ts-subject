@@ -15,3 +15,21 @@ function getTotal(firstNumber: number, secondNumber: number): number {
 const total = getTotal(2, 3);
 
 const obj = { name: 'zoiew', age: 18 };
+
+//type alias
+type User = { name: string };
+
+class Teacher {
+	name: string;
+	age?: number;
+}
+
+const ObjArr: Teacher[] = [
+	{
+		name: 'zoiew'
+	}
+];
+
+const teacherTony: [string, number, string] = ['zoiew', 20, 'man'];
+typeof teacherTony;
+console.log(typeof teacherTony);
